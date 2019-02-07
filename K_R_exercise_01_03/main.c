@@ -38,6 +38,9 @@ int main(int argc, const char * argv[]) {
   }
   printHeading(typeConvert, typeBegin, lower, upper, step);
   
+  //todo: combine loops into a single function
+  
+  
   celsius = lower;
   
   while (celsius <= upper){
