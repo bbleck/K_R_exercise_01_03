@@ -20,6 +20,9 @@ int main(int argc, const char * argv[]) {
   char* typeBegin;
   char* typeConvert;
   
+  //todo: use args to set initial vars
+  
+  
   typeBegin = "fahrenheit";
   typeConvert = "celsius";
   lower = 0;
